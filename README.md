@@ -267,8 +267,7 @@ Enjoy.
 
 - [Dundoc](https://www.dundoc.com/) - Avenge your Game Idea and Plunge into the Future Gaming Portal. Design your game idea the right way
 - [Nuclino](https://blog.nuclino.com/how-to-create-a-modern-game-design-document-gdd-in-nuclino) - A lightweight and collaborative wiki for all your team's knowledge, docs, and notes
-- [Milanote](https://milanote.com/) - Visual workspace for creative projects including game design documentation
-- [Notion](https://www.notion.so/) - All-in-one workspace popular for GDD creation with databases and collaboration features
+- [Affine](https://affine.pro/) - Great self-hosted note taking/knowledge base that serves well for GDD creation
 
 ## Game design tools
 
