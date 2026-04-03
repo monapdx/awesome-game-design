@@ -18,6 +18,9 @@ Enjoy.
 -  [Postmortems](#postmortems)
 -  [GDD Creation Tools](#gdd-creation-tools)
 
+### Game architecture:
+- [List](#game-architectural-elements)
+
 ### Design tools 
 - [List](#game-design-tools)
 
@@ -269,6 +272,11 @@ Enjoy.
 - [Nuclino](https://blog.nuclino.com/how-to-create-a-modern-game-design-document-gdd-in-nuclino) - A lightweight and collaborative wiki for all your team's knowledge, docs, and notes
 - [Affine](https://affine.pro/) - Great self-hosted note taking/knowledge base that serves well for GDD creation
 - [IMS Creators](https://ims.cr5.space/) - Collaborative game design creation tool integrated with project management
+
+## Game Architectural elements
+
+# Entity Component System (ECS)
+- [Overwatch](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - GDC Talk by Timothy Ford about Overwatch's architecture and its ECS usage
 
 ## Game design tools
 
